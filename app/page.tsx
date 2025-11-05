@@ -14,6 +14,7 @@ export default function Home() {
       <Gallery />
       <Contact />
       <Footer />
+      <p>hola</p>
     </main>
   )
 }
